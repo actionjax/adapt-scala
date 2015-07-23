@@ -3,3 +3,5 @@
 .cache-main
 bin
 .project
+lib/spark-assembly*
+lib/spark-examples*
